@@ -1,0 +1,7 @@
+{
+  "name": "ik-signed-overlay",
+  "version": "1.0.0",
+  "dependencies": {
+    "imagekit": "^1.2.3"
+  }
+}
